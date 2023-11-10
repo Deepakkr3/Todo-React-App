@@ -1,0 +1,21 @@
+h1 {
+  font-weight: 6500;
+  font-size: 40px;
+  margin: 50px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+.todo-container {
+  text-align: left;
+}
+.item-container {
+  text-align: left;
+}
+.row-my {
+  margin: 7px 10px;
+}
+.button-my {
+  min-width: 50px;
+}
